@@ -1,6 +1,6 @@
 # Basic-AI-projects
 
-## This respo contains basic practices of AI algorithms for my DS4400 course at Northeastern University
+## This respo contains basic practices of AI algorithms for my DS4400 and DS4440 course at Northeastern University
 
 ## assignments:
 
