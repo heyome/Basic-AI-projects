@@ -1,5 +1,5 @@
-*.py
-*.txt
-*.jpeg
-*.pdf
-*.ipynb
+!*.py
+!*.txt
+!*.jpeg
+!*.pdf
+!*.ipynb
